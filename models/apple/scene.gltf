@@ -129,13 +129,13 @@
   ],
   "images": [
     {
-      "uri": "textures/lambert2SG_normal.png"
+      "uri": "lambert2SG_normal.png"
     },
     {
-      "uri": "textures/lambert2SG_metallicRoughness.png"
+      "uri": "lambert2SG_metallicRoughness.png"
     },
     {
-      "uri": "textures/lambert2SG_baseColor.png"
+      "uri": "lambert2SG_baseColor.png"
     }
   ],
   "materials": [
