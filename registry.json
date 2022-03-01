@@ -2,9 +2,9 @@
     "categories": {
         "fruits": {
             "A": [{"model": "apple", "scale": 0.009, "word_pronunciation": "Eh-ple", "word_usage": "Apples are red", "word_youtube_link": "https://youtu.be/suI0iXR2N0I"}],
-            "B": [{"model": "banana", "scale": 0.05, "word_pronunciation": "", "word_usage": "", "word_youtube_link": ""}],
-            "C": [{"model": "cherry", "scale": 0.05, "word_pronunciation": "", "word_usage": "", "word_youtube_link": ""}],
-            "D": [{"model": "durian", "scale": 0.05, "word_pronunciation": "", "word_usage": "", "word_youtube_link": ""}],
+            "B": [{"model": "banana", "scale": 0.1, "word_pronunciation": "", "word_usage": "", "word_youtube_link": ""}],
+            "C": [{"model": "cherry", "scale": 0.1, "word_pronunciation": "", "word_usage": "", "word_youtube_link": ""}],
+            "D": [{"model": "durian", "scale": 0.009, "word_pronunciation": "", "word_usage": "", "word_youtube_link": ""}],
             "E": [{"model": "eggplant", "scale": 0.05, "word_pronunciation": "", "word_usage": "", "word_youtube_link": ""}],
             "F": [{"model": "fig", "scale": 0.05, "word_pronunciation": "", "word_usage": "", "word_youtube_link": ""}],
             "G": [],
