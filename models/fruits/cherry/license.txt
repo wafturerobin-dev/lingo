@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cherries
+* source:	https://sketchfab.com/3d-models/cherries-a6a77f3d44d44c2dacab02b7a55c0b4e
+* author:	siotech2011 (https://sketchfab.com/siotech2011)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cherries" (https://sketchfab.com/3d-models/cherries-a6a77f3d44d44c2dacab02b7a55c0b4e) by siotech2011 (https://sketchfab.com/siotech2011) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

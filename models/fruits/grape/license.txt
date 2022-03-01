@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grape "King Delaware" / 葡萄（キングデラウェア）
+* source:	https://sketchfab.com/3d-models/grape-king-delaware-50549a7af24f4ed68fe75a23bbf0c98b
+* author:	masanaga (https://sketchfab.com/tasklong)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grape "King Delaware" / 葡萄（キングデラウェア）" (https://sketchfab.com/3d-models/grape-king-delaware-50549a7af24f4ed68fe75a23bbf0c98b) by masanaga (https://sketchfab.com/tasklong) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

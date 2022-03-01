@@ -1,0 +1,319 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 16954,
+      "max": [
+        9.417236328125,
+        7.8015637397766113,
+        24.934600830078125
+      ],
+      "min": [
+        -9.322871208190918,
+        -10.300241470336914,
+        0.063835851848125458
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 203448,
+      "componentType": 5126,
+      "count": 16954,
+      "max": [
+        0.99979948997497559,
+        0.9999765157699585,
+        0.99992227554321289
+      ],
+      "min": [
+        -0.99967014789581299,
+        -0.99997806549072266,
+        -0.99999260902404785
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 16954,
+      "max": [
+        1,
+        0.97845727205276489,
+        0.99942177534103394,
+        1
+      ],
+      "min": [
+        -0.99999958276748657,
+        -0.9956316351890564,
+        -0.99946153163909912,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 16954,
+      "max": [
+        0.99968940019607544,
+        0.98022449016571045
+      ],
+      "min": [
+        0.000244140625,
+        0.00025953783188015223
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 135632,
+      "componentType": 5126,
+      "count": 16954,
+      "max": [
+        0.99968940019607544,
+        0.98022449016571045
+      ],
+      "min": [
+        0.000244140625,
+        0.00025953783188015223
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 85170,
+      "max": [
+        16953
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "DuckbillStudio (https://sketchfab.com/DuckbillStudio)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/pear-bbe7d1ce209942568387cf243fc08c3d",
+      "title": "pear (洋ナシ)"
+    },
+    "generator": "Sketchfab-9.94.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 340680,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 271264,
+      "byteOffset": 340680,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 406896,
+      "byteOffset": 611944,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 271264,
+      "byteOffset": 1018840,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1290104,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "pear_u1_v1_baseColor.jpeg"
+    },
+    {
+      "uri": "pear_u1_v1_metallicRoughness.png"
+    },
+    {
+      "uri": "pear_u1_v1_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "pear_u1_v1",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "pear_pear_u1_v1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "b310909cc5064364a1cfb1ef91916e70.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        9.6930083650612141e-10,
+        2.7634832475204854e-19,
+        0.0049782488495110529,
+        0,
+        0.0049782488495110485,
+        -2.1760617729213449e-10,
+        -9.6930083788786293e-10,
+        0,
+        2.1760617673943784e-10,
+        0.0049782488495111431,
+        -4.4215731960327767e-17,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "pear"
+    },
+    {
+      "mesh": 0,
+      "name": "pear_pear_u1_v1_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+
