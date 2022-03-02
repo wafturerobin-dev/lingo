@@ -1,0 +1,11 @@
+Model Information:
+* title:	Realistic Elephant
+* source:	https://sketchfab.com/3d-models/realistic-elephant-ebf48e7b68714739ba42e95fc8c655d3
+* author:	EastArtist (https://sketchfab.com/eastartist)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Realistic Elephant" (https://sketchfab.com/3d-models/realistic-elephant-ebf48e7b68714739ba42e95fc8c655d3) by EastArtist (https://sketchfab.com/eastartist) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
