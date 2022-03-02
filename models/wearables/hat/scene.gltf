@@ -1,0 +1,447 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 9088,
+      "max": [
+        2.5772275924682617,
+        3.1477785110473633,
+        0.65166193246841431
+      ],
+      "min": [
+        -2.7933840751647949,
+        -3.4731779098510742,
+        -1.017725944519043
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 109056,
+      "componentType": 5126,
+      "count": 9088,
+      "max": [
+        0.99478828907012939,
+        0.99518531560897827,
+        0.9999040961265564
+      ],
+      "min": [
+        -0.99477815628051758,
+        -0.9951854944229126,
+        -0.99990516901016235
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 9088,
+      "max": [
+        0.99854063987731934,
+        0.99981069564819336,
+        0.99990421533584595,
+        1
+      ],
+      "min": [
+        -0.99902522563934326,
+        -0.99999397993087769,
+        -0.98200666904449463,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 9088,
+      "max": [
+        0.99999862909317017,
+        0.95873916149139404
+      ],
+      "min": [
+        2.9802322387695312e-07,
+        2.6822090148925781e-07
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 72704,
+      "componentType": 5126,
+      "count": 9088,
+      "max": [
+        0.99999862909317017,
+        0.95873916149139404
+      ],
+      "min": [
+        2.9802322387695312e-07,
+        2.6822090148925781e-07
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 145408,
+      "componentType": 5126,
+      "count": 9088,
+      "max": [
+        0.99999862909317017,
+        0.95873916149139404
+      ],
+      "min": [
+        2.9802322387695312e-07,
+        2.6822090148925781e-07
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 218112,
+      "componentType": 5126,
+      "count": 9088,
+      "max": [
+        0.99999862909317017,
+        0.95873916149139404
+      ],
+      "min": [
+        2.9802322387695312e-07,
+        2.6822090148925781e-07
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 290816,
+      "componentType": 5126,
+      "count": 9088,
+      "max": [
+        0.99999862909317017,
+        0.95873916149139404
+      ],
+      "min": [
+        2.9802322387695312e-07,
+        2.6822090148925781e-07
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 363520,
+      "componentType": 5126,
+      "count": 9088,
+      "max": [
+        0.99999862909317017,
+        0.95873916149139404
+      ],
+      "min": [
+        2.9802322387695312e-07,
+        2.6822090148925781e-07
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 436224,
+      "componentType": 5126,
+      "count": 9088,
+      "max": [
+        0.99999862909317017,
+        0.95873916149139404
+      ],
+      "min": [
+        2.9802322387695312e-07,
+        2.6822090148925781e-07
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 508928,
+      "componentType": 5126,
+      "count": 9088,
+      "max": [
+        0.99999862909317017,
+        0.95873916149139404
+      ],
+      "min": [
+        2.9802322387695312e-07,
+        2.6822090148925781e-07
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 581632,
+      "componentType": 5126,
+      "count": 9088,
+      "max": [
+        0.99999862909317017,
+        0.95873916149139404
+      ],
+      "min": [
+        2.9802322387695312e-07,
+        2.6822090148925781e-07
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 654336,
+      "componentType": 5126,
+      "count": 9088,
+      "max": [
+        0.99999862909317017,
+        0.95873916149139404
+      ],
+      "min": [
+        2.9802322387695312e-07,
+        2.6822090148925781e-07
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 13632,
+      "max": [
+        9087
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "The Elliseran Modeller (https://sketchfab.com/kenlong)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/fun-cowboy-straw-hat-9748427930a246fd93d306fb73b62d73",
+      "title": "Fun Cowboy Straw Hat"
+    },
+    "generator": "Sketchfab-9.11.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 54528,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 727040,
+      "byteOffset": 54528,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 218112,
+      "byteOffset": 781568,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 145408,
+      "byteOffset": 999680,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1145088,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "DefaultMaterial_baseColor.jpeg"
+    },
+    {
+      "uri": "DefaultMaterial_metallicRoughness.png"
+    },
+    {
+      "uri": "DefaultMaterial_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "DefaultMaterial",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Cylinder_DefaultMaterial_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5,
+            "TEXCOORD_3": 6,
+            "TEXCOORD_4": 7,
+            "TEXCOORD_5": 8,
+            "TEXCOORD_6": 9,
+            "TEXCOORD_7": 10,
+            "TEXCOORD_8": 11,
+            "TEXCOORD_9": 12
+          },
+          "indices": 13,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "CowboyStraw.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        100,
+        0,
+        0,
+        0,
+        -0,
+        -1.331580541386046e-05,
+        -99.999999999999119,
+        0,
+        0,
+        99.999999999999119,
+        -1.331580541386046e-05,
+        0,
+        -0.59750789403915405,
+        100.46591949462891,
+        0,
+        1
+      ],
+      "name": "Cylinder"
+    },
+    {
+      "mesh": 0,
+      "name": "Cylinder_DefaultMaterial_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+

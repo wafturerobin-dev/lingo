@@ -1,0 +1,11 @@
+Model Information:
+* title:	Leo
+* source:	https://sketchfab.com/3d-models/leo-7ed51de1a12f4b27b826da9e205a957d
+* author:	tommyoshima (https://sketchfab.com/tommyoshima)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Leo" (https://sketchfab.com/3d-models/leo-7ed51de1a12f4b27b826da9e205a957d) by tommyoshima (https://sketchfab.com/tommyoshima) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

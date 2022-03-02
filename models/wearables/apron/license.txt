@@ -1,0 +1,11 @@
+Model Information:
+* title:	Apron
+* source:	https://sketchfab.com/3d-models/apron-fc83afdce3414c9a8aecde854d4f3c78
+* author:	Huanart (https://sketchfab.com/Huanart)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Apron" (https://sketchfab.com/3d-models/apron-fc83afdce3414c9a8aecde854d4f3c78) by Huanart (https://sketchfab.com/Huanart) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

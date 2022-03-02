@@ -1,0 +1,11 @@
+Model Information:
+* title:	Women Leggings
+* source:	https://sketchfab.com/3d-models/women-leggings-5f3a574b8f494514ba42a0d84f594877
+* author:	andrei.ilie (https://sketchfab.com/andrei.ilie)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Women Leggings" (https://sketchfab.com/3d-models/women-leggings-5f3a574b8f494514ba42a0d84f594877) by andrei.ilie (https://sketchfab.com/andrei.ilie) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
