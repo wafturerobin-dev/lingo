@@ -1,10 +1,10 @@
 {
     "categories": {
         "fruits": {
-            "A": [{"model": "apple", "scale": 0.009, "word_pronunciation": "Eh-ple", "word_usage": "Apples are red.", "word_youtube_link": "https://youtu.be/suI0iXR2N0I", "active": true}],
+            "A": [{"model": "apple", "scale": 0.003, "word_pronunciation": "Eh-ple", "word_usage": "Apples are red.", "word_youtube_link": "https://youtu.be/suI0iXR2N0I", "active": true}],
             "B": [{"model": "banana", "scale": 0.21, "word_pronunciation": "ba-na-na", "word_usage": "A banana is a curved, yellow fruit.", "word_youtube_link": "https://youtu.be/P_wHQrFM3hM", "active": true}],
-            "C": [{"model": "cherry", "scale": 0.3, "word_pronunciation": "che-rie", "word_usage": "Your face is as red as an overripe cherry.", "word_youtube_link": "https://youtu.be/VWgJM2KrYLw", "active": true}],
-            "D": [{"model": "durian", "scale": 0.003, "word_pronunciation": "De-u-rian", "word_usage": "Durian is the king of fruits.", "word_youtube_link": "https://youtu.be/E0xLY5TBtoA?t=28", "active": true}],
+            "C": [{"model": "cherry", "scale": 0.28, "word_pronunciation": "che-rie", "word_usage": "Your face is as red as an overripe cherry.", "word_youtube_link": "https://youtu.be/VWgJM2KrYLw", "active": true}],
+            "D": [{"model": "durian", "scale": 0.0025, "word_pronunciation": "De-u-rian", "word_usage": "Durian is the king of fruits.", "word_youtube_link": "https://youtu.be/E0xLY5TBtoA?t=28", "active": true}],
             "E": [{"model": "eggplant", "scale": 0.001, "word_pronunciation": "eg-plant", "word_usage": "An eggplant is a large, purple-skinned vegetable.", "word_youtube_link": "https://youtu.be/OLzAZnnvhtc", "active": true}],
             "F": [{"model": "fig", "scale": 0.001, "word_pronunciation": "fi-g", "word_usage": "Fig has been cultivated since ancient times.", "word_youtube_link": "https://youtu.be/njgTeEMJ4xs", "active": true}],
             "G": [{"model": "grape", "scale": 0.001, "word_pronunciation": "gray-p", "word_usage": "A grape is a small, sweet fruit that grows in clusters on a vine.", "word_youtube_link": "https://youtu.be/aCKgj5Ruwz0", "active": true}],
