@@ -11,7 +11,7 @@
             "H": [],
             "I": [],
             "J": [],
-            "K": [{"model": "kiwi", "scale": 0.01, "word_pronunciation": "kee-wee", "word_usage": "Kiwis are low in calories, protein, and fat.", "word_youtube_link": "https://youtu.be/l8twKwSU-dc", "active": true}],
+            "K": [{"model": "kiwi", "scale": 0.02, "word_pronunciation": "kee-wee", "word_usage": "Kiwis are low in calories, protein, and fat.", "word_youtube_link": "https://youtu.be/l8twKwSU-dc", "active": true}],
             "L": [{"model": "lemon", "scale": 0.005, "word_pronunciation": "leh-muhn", "word_usage": "A lemon is a sour yellow fruit.", "word_youtube_link": "https://youtu.be/mVxdN9sinPQ", "active": false}],
             "M": [{"model": "mango", "scale": 0.005, "word_pronunciation": "mang-gow", "word_usage": "A mango is a sweet tropical fruit.", "word_youtube_link": "https://youtu.be/ddI-zBPNG3c", "active": false}],
             "N": [{"model": "nectarine", "scale": 0.0007, "word_pronunciation": "nek-tr-een", "word_usage": "Nectarines are a deliciously sweet summertime fruit.", "word_youtube_link": "https://youtu.be/eBXHm_CvdJU", "active": false}],
