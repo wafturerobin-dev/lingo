@@ -4,7 +4,7 @@
             "A": [{"model": "apple", "scale": 0.004, "word_pronunciation": "Eh-ple", "word_usage": "Apples are red.", "word_youtube_link": "https://youtu.be/suI0iXR2N0I", "active": true}],
             "B": [{"model": "banana", "scale": 0.21, "word_pronunciation": "ba-na-na", "word_usage": "A banana is a curved, yellow fruit.", "word_youtube_link": "https://youtu.be/P_wHQrFM3hM", "active": true}],
             "C": [{"model": "cherry", "scale": 0.28, "word_pronunciation": "che-rie", "word_usage": "Your face is as red as an overripe cherry.", "word_youtube_link": "https://youtu.be/VWgJM2KrYLw", "active": true}],
-            "D": [{"model": "durian", "scale": 0.0022, "word_pronunciation": "De-u-rian", "word_usage": "Durian is the king of fruits.", "word_youtube_link": "https://youtu.be/E0xLY5TBtoA?t=28", "active": true}],
+            "D": [{"model": "durian", "scale": 0.002, "word_pronunciation": "De-u-rian", "word_usage": "Durian is the king of fruits.", "word_youtube_link": "https://youtu.be/E0xLY5TBtoA?t=28", "active": true}],
             "E": [{"model": "eggplant", "scale": 0.001, "word_pronunciation": "eg-plant", "word_usage": "An eggplant is a large, purple-skinned vegetable.", "word_youtube_link": "https://youtu.be/OLzAZnnvhtc", "active": false}],
             "F": [{"model": "fig", "scale": 0.001, "word_pronunciation": "fi-g", "word_usage": "Fig has been cultivated since ancient times.", "word_youtube_link": "https://youtu.be/njgTeEMJ4xs", "active": false}],
             "G": [{"model": "grape", "scale": 0.001, "word_pronunciation": "gray-p", "word_usage": "A grape is a small, sweet fruit that grows in clusters on a vine.", "word_youtube_link": "https://youtu.be/aCKgj5Ruwz0", "active": false}],
@@ -29,10 +29,10 @@
             "Z": []
         },
         "animals": {
-            "A": [{"model": "ant", "scale": 0.02, "word_pronunciation": "ant", "word_usage": "Ant is a small insect.", "word_youtube_link": "https://youtu.be/Uzaf3DfiW18", "active": true}],
-            "B": [{"model": "bird", "scale": 0.01, "word_pronunciation": "burd", "word_usage": "Bird is a warm-blooded egg-laying vertebrate animal.", "word_youtube_link": "https://youtu.be/oktz-EnIlAg", "active": true}],
+            "A": [{"model": "ant", "scale": 0.01, "word_pronunciation": "ant", "word_usage": "Ant is a small insect.", "word_youtube_link": "https://youtu.be/Uzaf3DfiW18", "active": true}],
+            "B": [{"model": "bird", "scale": 0.03, "word_pronunciation": "burd", "word_usage": "Bird is a warm-blooded egg-laying vertebrate animal.", "word_youtube_link": "https://youtu.be/oktz-EnIlAg", "active": true}],
             "C": [{"model": "cat", "scale": 0.001, "word_pronunciation": "kat", "word_usage": "Cat is a domestic species of a small carnivorous mammal.", "word_youtube_link": "https://youtu.be/vUvHdz_hOy0", "active": true}],
-            "D": [{"model": "dog", "scale": 0.01, "word_pronunciation": "dawg", "word_usage": "Dog is a domesticated canid.", "word_youtube_link": "https://youtu.be/p928RrrSddc", "active": true}],
+            "D": [{"model": "dog", "scale": 0.06, "word_pronunciation": "dawg", "word_usage": "Dog is a domesticated canid.", "word_youtube_link": "https://youtu.be/p928RrrSddc", "active": true}],
             "E": [{"model": "elephant", "scale": 0.001, "word_pronunciation": "eh-luh-fuhnt", "word_usage": "Elephant is a very large herbivorous mammal.", "word_youtube_link": "https://youtu.be/9UTkbINdc60", "active": false}],
             "F": [{"model": "fish", "scale": 0.001, "word_pronunciation": "fi-sh", "word_usage": "Fish are aquatic, craniate, gill-bearing animals that lack limbs with digits.", "word_youtube_link": "https://youtu.be/iEYeNxUyy9c", "active": false}],
             "G": [{"model": "goose", "scale": 0.001, "word_pronunciation": "goos", "word_usage": "Goose is a large waterbird with a long neck.", "word_youtube_link": "https://youtu.be/aVWj6LaTRhE", "active": false}],
@@ -58,7 +58,7 @@
         },
         "wearables": {
             "A": [{"model": "apron", "scale": 0.001, "word_pronunciation": "ey-pruhn", "word_usage": "Aprons are used to keep clothes clean and tidy.", "word_youtube_link": "https://youtu.be/s10MceNKD3M", "active": true}],
-            "B": [{"model": "belt", "scale": 0.001, "word_pronunciation": "belt", "word_usage": "A belt is a band of fabric worn around the waist", "word_youtube_link": "https://youtu.be/Y1kAueOt_ns", "active": true}],
+            "B": [{"model": "belt", "scale": 0.05, "word_pronunciation": "belt", "word_usage": "A belt is a band of fabric worn around the waist", "word_youtube_link": "https://youtu.be/Y1kAueOt_ns", "active": true}],
             "C": [{"model": "coat", "scale": 0.001, "word_pronunciation": "koht", "word_usage": "Coat is a piece of clothing with long sleeves.", "word_youtube_link": "https://youtu.be/3jDbb8JYhZk", "active": true}],
             "D": [{"model": "dress", "scale": 0.0007, "word_pronunciation": "dres", "word_usage": "Girls love to wear dresses.", "word_youtube_link": "https://youtu.be/XDITCbu2PZE", "active": true}],
             "E": [{"model": "earrings", "scale": 0.001, "word_pronunciation": "eer-ringz", "word_usage": "Earrings are the ornament for the ear.", "word_youtube_link": "https://youtu.be/6PQrv1D8le4", "active": false}],
