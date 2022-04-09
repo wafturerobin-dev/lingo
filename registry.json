@@ -30,9 +30,9 @@
         },
         "animals": {
             "A": [{"model": "ant", "scale": 0.02, "word_pronunciation": "ant", "word_usage": "Ant is a small insect.", "word_youtube_link": "https://youtu.be/Uzaf3DfiW18", "active": true}],
-            "B": [{"model": "bird", "scale": 0.001, "word_pronunciation": "burd", "word_usage": "Bird is a warm-blooded egg-laying vertebrate animal.", "word_youtube_link": "https://youtu.be/oktz-EnIlAg", "active": true}],
+            "B": [{"model": "bird", "scale": 0.01, "word_pronunciation": "burd", "word_usage": "Bird is a warm-blooded egg-laying vertebrate animal.", "word_youtube_link": "https://youtu.be/oktz-EnIlAg", "active": true}],
             "C": [{"model": "cat", "scale": 0.001, "word_pronunciation": "kat", "word_usage": "Cat is a domestic species of a small carnivorous mammal.", "word_youtube_link": "https://youtu.be/vUvHdz_hOy0", "active": true}],
-            "D": [{"model": "dog", "scale": 0.003, "word_pronunciation": "dawg", "word_usage": "Dog is a domesticated canid.", "word_youtube_link": "https://youtu.be/p928RrrSddc", "active": true}],
+            "D": [{"model": "dog", "scale": 0.01, "word_pronunciation": "dawg", "word_usage": "Dog is a domesticated canid.", "word_youtube_link": "https://youtu.be/p928RrrSddc", "active": true}],
             "E": [{"model": "elephant", "scale": 0.001, "word_pronunciation": "eh-luh-fuhnt", "word_usage": "Elephant is a very large herbivorous mammal.", "word_youtube_link": "https://youtu.be/9UTkbINdc60", "active": false}],
             "F": [{"model": "fish", "scale": 0.001, "word_pronunciation": "fi-sh", "word_usage": "Fish are aquatic, craniate, gill-bearing animals that lack limbs with digits.", "word_youtube_link": "https://youtu.be/iEYeNxUyy9c", "active": false}],
             "G": [{"model": "goose", "scale": 0.001, "word_pronunciation": "goos", "word_usage": "Goose is a large waterbird with a long neck.", "word_youtube_link": "https://youtu.be/aVWj6LaTRhE", "active": false}],
