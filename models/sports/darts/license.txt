@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dart Board And Dart
+* source:	https://sketchfab.com/3d-models/dart-board-and-dart-1a16bcf11fae4352a615c8da88d2e9ac
+* author:	NTSC (https://sketchfab.com/NTSC)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dart Board And Dart" (https://sketchfab.com/3d-models/dart-board-and-dart-1a16bcf11fae4352a615c8da88d2e9ac) by NTSC (https://sketchfab.com/NTSC) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
