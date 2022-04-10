@@ -88,7 +88,7 @@
             "A": [{"model": "archery_bow", "scale": 0.001, "word_pronunciation": "ahr-chuh-ree bou", "word_usage": "In archery, a recurve bow is one of the main shapes a bow can take.", "word_youtube_link": "https://youtu.be/tlM-ODkBxL4", "active": true}],
             "B": [{"model": "basketball", "scale": 0.005, "word_pronunciation": "bas-kit-bawl", "word_usage": "Basketball has evolved to become one of the world's most popular and widely viewed sports.", "word_youtube_link": "https://youtu.be/hLLnpH2-pww", "active": true}],
             "C": [{"model": "cricket_bat", "scale": 0.002, "word_pronunciation": "krik-it bat", "word_usage": "A cricket bat is a specialized piece of equipment used by batters in the sport of cricket to hit the ball.", "word_youtube_link": "https://youtu.be/xNApRTYlGl4", "active": true}],
-            "D": [],
+            "D": [{"model": "darts", "scale": 0.002, "word_pronunciation": "daarts", "word_usage": "A throwing game where darts are thrown at a numbered dart board hung on a wall.", "word_youtube_link": "https://youtu.be/PeMBaZkycJM", "active": true}],
             "E": [],
             "F": [{"model": "football", "scale": 0.001, "word_pronunciation": "foot-bawl", "word_usage": "Football is a family of team sports.", "word_youtube_link": "https://youtu.be/P2bHypxuLsQ", "active": false}],
             "G": [{"model": "golf_ball", "scale": 0.001, "word_pronunciation": "gawlf bawl", "word_usage": "A golf ball is a special ball designed to be used in the game of golf.", "word_youtube_link": "https://youtu.be/r81PaEYhT4Q", "active": false}],
