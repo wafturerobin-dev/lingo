@@ -58,7 +58,7 @@
         },
         "wearables": {
             "A": [{"model": "apron", "scale": 0.001, "word_pronunciation": "ey-pruhn", "word_usage": "Aprons are used to keep clothes clean and tidy.", "word_youtube_link": "https://youtu.be/s10MceNKD3M", "active": true}],
-            "B": [{"model": "belt", "scale": 0.05, "word_pronunciation": "belt", "word_usage": "A belt is a band of fabric worn around the waist", "word_youtube_link": "https://youtu.be/Y1kAueOt_ns", "active": true}],
+            "B": [{"model": "belt", "scale": 0.02, "word_pronunciation": "belt", "word_usage": "A belt is a band of fabric worn around the waist", "word_youtube_link": "https://youtu.be/Y1kAueOt_ns", "active": true}],
             "C": [{"model": "coat", "scale": 0.0006, "word_pronunciation": "koht", "word_usage": "Coat is a piece of clothing with long sleeves.", "word_youtube_link": "https://youtu.be/3jDbb8JYhZk", "active": true}],
             "D": [{"model": "dress", "scale": 0.0006, "word_pronunciation": "dres", "word_usage": "Girls love to wear dresses.", "word_youtube_link": "https://youtu.be/XDITCbu2PZE", "active": true}],
             "E": [{"model": "earrings", "scale": 0.001, "word_pronunciation": "eer-ringz", "word_usage": "Earrings are the ornament for the ear.", "word_youtube_link": "https://youtu.be/6PQrv1D8le4", "active": false}],
